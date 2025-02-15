@@ -44,7 +44,7 @@ A centralized platform for managing hotel issues, complaints, reminders, and mai
    PORT=5000
    MONGODB_URI=mongodb://localhost:27017/hotel-management
    JWT_SECRET=your_secure_jwt_secret_key
-   PROPERTY_PIN=47123
+   PROPERTY_PIN=11111
    ```
 
 4. Start the server:
