@@ -72,7 +72,7 @@ A centralized platform for managing hotel issues, complaints, reminders, and mai
 ## Usage
 
 1. Access the application at `http://localhost:3000`
-2. Enter the property PIN: `47123`
+2. Enter the property PIN: `11111`
 3. Login with your credentials or register a new account
 4. For admin access, create an admin account through the MongoDB shell or ask an existing admin to create one
 
